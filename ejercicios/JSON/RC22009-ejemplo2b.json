@@ -1,0 +1,29 @@
+{
+  "pais": {
+    "oficial": "espanol",
+    "autoctono": "espanol",
+    "segundo-idioma": "ingles",
+    "departamento": [
+      {
+        "cabecera": "San Salvador",
+        "habitantes": "1,700,000",
+        "altura": "545 MSNM"
+      },
+      {
+        "cabecera": "La union",
+        "habitantes": "1,60,000",
+        "altura": "540 MSNM",
+        "modenas": "Dolar",
+        "Codigo-telefonico": 458644
+      },
+      {
+        "cabecera": "La Libertad",
+        "habitantes": "1,700,000",
+        "altura": "540 MSNM",
+        "modenas": "Dolar",
+        "Codigo-telefonico": 8876,
+        "indice-Desarrollo": 0.458
+      }
+    ]
+  }
+}

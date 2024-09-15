@@ -1,0 +1,55 @@
+/* Style for the fichero element */
+fichero {
+    background-color: blue;
+    display: block;
+    padding: 10px;
+}
+
+/* Style for each ficha element */
+ficha {
+    background-color: red;
+    display: block;
+    padding: 10px;
+    margin: 10px 0;
+    border: 1px solid #000;
+}
+
+/* Style for the nombre element */
+nombre {
+    color: white;
+    display: inline;
+    font-weight: bold;
+}
+
+/* Style for the apellido element */
+apellido {
+    color: yellow;
+    display: inline;
+    font-weight: bold;
+}
+
+/* Style for the direccion element */
+direccion {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+
+/* Style for the telefono element */
+telefono {
+    color: lightblue;
+    display: block;
+}
+
+/* Style for the email element */
+email {
+    color: lightgreen;
+    display: block;
+}
+
+/* Style for the web element */
+web {
+    color: orange;
+    display: block;
+    font-size: 0.9cm;
+}

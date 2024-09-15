@@ -1,0 +1,33 @@
+ficha {
+    background-color: red;
+    display: block;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #000;
+}
+
+nombre {
+    color: white;
+    display: inline;
+}
+
+apellido {
+    color: yellow;
+    display: inline;
+}
+
+direccion {
+    color: yellow;
+    font-size: 1cm;
+    display: block;
+}
+
+telefono {
+    color: lightblue;
+    display: block;
+}
+
+email {
+    color: lightgreen;
+    display: block;
+}

@@ -1,0 +1,74 @@
+﻿/* Style for the pais element */
+pais {
+  background-color: lightblue;
+  display: block;
+  padding: 15px;
+  margin: 10px;
+  border: 2px solid #000;
+}
+
+/* Style for each departamento element */
+departamento {
+  background-color: lightcoral;
+  display: block;
+  padding: 10px;
+  margin: 10px 0;
+  border: 1px solid #000;
+}
+
+/* Style for cabecera element */
+cabecera {
+  color: white;
+  display: block;
+  font-weight: bold;
+  font-size: 1.2em;
+}
+
+/* Style for habitantes element */
+habitantes {
+  color: yellow;
+  display: block;
+  font-size: 1em;
+}
+
+/* Style for altura element */
+altura {
+  color: orange;
+  display: block;
+  font-size: 0.9em;
+}
+
+/* Style for modenas element */
+modenas {
+  color: green;
+  display: block;
+  font-size: 0.9em;
+}
+
+/* Style for Codigo-telefonico element */
+Codigo-telefonico {
+  color: blue;
+  display: block;
+  font-size: 0.9em;
+}
+
+/* Style for oficial element */
+oficial {
+  color: purple;
+  display: block;
+  font-size: 0.9em;
+}
+
+/* Style for autoctono element */
+autoctono {
+  color: red;
+  display: block;
+  font-size: 0.9em;
+}
+
+/* Style for segundo-idioma element */
+segundo-idioma {
+  color: brown;
+  display: block;
+  font-size: 0.9em;
+}
