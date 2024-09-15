@@ -1,0 +1,30 @@
+﻿{
+  "fichero": {
+    "ficha": [
+      {
+        "nombre": "Antonio",
+        "apellido": "Barbero",
+        "direccion": "Calle de Los Andes, 45"
+      },
+      {
+        "nombre": "Hector",
+        "apellido": "Rodriguez",
+        "direccion": "San salvador",
+        "telefono": "5465-5454",
+        "email": "hola@gmail.com",
+        "web": "https://hector357159.github.io/xml-page/"
+      },
+      {
+        "nombre": "luis",
+        "apellido": "Federico",
+        "direccion": "San salvador",
+        "telefono": "5451-5454",
+        "email": "holaexam@gmail.com",
+        "dui": "45448454-548",
+        "isss": "887879-48798498-548",
+        "afp": "445484648-546549845",
+        "web": "https://hector357159.github.io/xml-page/"
+      }
+    ]
+  }
+}

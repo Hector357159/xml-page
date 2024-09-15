@@ -1,0 +1,9 @@
+﻿{
+  "ficha": {
+    "nombre": "Hector",
+    "apellido": "Rodriguez",
+    "direccion": "San salvador",
+    "telefono": "5465-5454",
+    "email": "hola@gmail.com"
+  }
+}

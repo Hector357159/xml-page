@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+ <?xml-stylesheet type=”text/css” href=”RC22009-ejercicio2a.css”?>
+  <pais nombre="El Salvador">
+    <departamento id="1" nombre="San Salvador">
+      <cabecera>San Salvador</cabecera>
+      <habitantes>1,700,000</habitantes>
+      <altura>545 MSNM</altura>
+  </departamento>
+  <departamento id="2" nombre="San Salvador">
+      <cabecera>La union</cabecera>
+      <habitantes>1,60,000</habitantes>
+      <altura>540 MSNM</altura>
+      <modenas>Dolar</modenas>
+    <Codigo-telefonico>458644</Codigo-telefonico>
+    <oficial>espanol</oficial>
+    <autoctono>espanol</autoctono>
+    <segundo-idioma>ingles</segundo-idioma> 
+  </departamento>
+  <documento xml:lang="es">
+	        <división>
+		        <párrafo>Desea regresar <a href="../index.html" xmlns="http://www.w3.org/1999/xhtml">enlace</a>?</párrafo>
+	        </división>
+        </documento>
+</pais>
